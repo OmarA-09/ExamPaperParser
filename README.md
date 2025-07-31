@@ -29,7 +29,7 @@
 
 `deactivate`
 
-## You should see (exam_extraction_env) in your prompt
+## Install requirements in venv
 
 `pip install -r ./requirements.txt`
 
