@@ -2,7 +2,7 @@
 
 ## High-Level Approach
 
-- This tool focuses on extracting questions from a single, complex ACT International Subject Test Maths PDF rather than a generic or simplified file. https://www.act.org/content/dam/act/unsecured/documents/AIST-Math-Practice-Test.pdf    
+- This tool focuses on extracting questions from a single, complex ACT International Subject Test Maths PDF rather than amn extractor which is generic and less impressive/surface level. https://www.act.org/content/dam/act/unsecured/documents/AIST-Math-Practice-Test.pdf    
 - The pipeline:
     - Downloads the ACT sample PDF.
     - Extracts text and parses questions, options, and answers per page using pdfplumber and regular expressions.
