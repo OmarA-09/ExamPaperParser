@@ -1,0 +1,12 @@
+# Virtual environment
+exam_extraction_env/
+venv/
+env/
+# old_/ directory
+old_/
+
+# Output files
+output/
+output_jsons/
+downloaded_pdfs/
+*.pdf
